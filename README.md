@@ -15,7 +15,7 @@
 <div>
   <p align="center">
     <picture>
-      <img src="https://github-readme-stats.vercel.app/api?username=dansouzaeu&show_icons=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dansouzaeu&count_private=true&show_icons=true&theme=dracula />
     </picture>
   </p>
 </div><br>
