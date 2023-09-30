@@ -24,7 +24,7 @@
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=42px /></picture>
 </div>
 
-### Add me on LinkedIn 💻
+### Follow me on my social medias 💻
 <div>
   <a href="https://linkedin.com/in/dansouzaeu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/dansouzaeu" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
