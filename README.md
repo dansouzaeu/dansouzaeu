@@ -17,9 +17,6 @@
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=dansouzaeu&show_icons=true&theme=dracula" />
     </picture>
-    <!---<picture>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansouzaeu&layout=compact" />
-    </picture> --->
   </p>
 </div><br>
 <div>
